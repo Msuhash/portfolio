@@ -1,0 +1,57 @@
+body{
+    background-color: black;
+}
+
+.contact_background{
+    position: absolute;
+    width: 100%;
+    top: 0%;
+    bottom: 0%;
+    left: 0%;
+    right: 0%;
+}
+.contact_con{
+    left: 20%;
+    top: 10%;
+    position: absolute;
+    box-shadow:aqua 0px 54px 55px, aqua 0px -12px 30px,aqua 0px 4px 6px, aqua 0px 12px 13px, aqua 0px -3px 5px;
+    width: 30%;
+    height: 95%;
+    border-radius: 200px;
+
+}
+h1{
+    color: aqua;
+    margin-left: 15%;
+    padding-bottom: 50px;
+    font-size: 50px;
+}
+input,textarea{
+    width: 100%;
+    resize: vertical;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 10px;
+    border-radius: 20px;
+}
+label{
+    color: aqua;
+}
+.contact_con{
+    padding: 80px 50px 0px 180px;
+    margin-left: 100px;
+    margin-top: 50px;
+   
+    
+}
+.con_form{
+    width: 70%;
+    
+}
+#sub{
+    width: 35%;
+    border-radius: 20px;
+    background-color: aqua;
+    margin-left: 110px;
+    margin-top: 40px;
+}
